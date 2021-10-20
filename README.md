@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elbrillo
-- 👀 I’m interested in ... code learnig music production juce and devolop myself into programming in the future
+- 👀 I’m interested in ... code learnig music production juce and develop myself into programming in the future
 
 - 🌱 I’m currently learning ...python and solidity
 - 💞️ I’m looking to collaborate on ...dont know yet but i will let you guys know soon
